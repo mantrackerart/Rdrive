@@ -1,0 +1,19 @@
+# Dữ liệu riêng của từng máy — KHÔNG đưa lên GitHub
+data/
+logs/
+bin/
+runtime/
+.venv/
+dist/
+config*.json
+config*.bak
+*.conf
+rclone.conf
+__pycache__/
+*.pyc
+_review_tmp/
+*-backup/
+CHANGELOG_AGENT.md
+QUY_TAC_AGENT.md
+BAO_CAO_*.md
+.env
